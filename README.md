@@ -1,2 +1,2 @@
 # git_itmagical
-Learning Git Itmagical
+Learning Git Itmagical new task
